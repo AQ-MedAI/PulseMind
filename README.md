@@ -33,11 +33,9 @@ This repository provides the official **codebase and evaluation scripts** for th
 
 ---
 
-### 🔗 Dataset Download Links 
+### 🔗 Dataset Download Link [Download link](https://huggingface.co/datasets/AQ-MedAI/PulseMind) 
 
-[Download link](https://huggingface.co/datasets/AQ-MedAI/PulseMind) 
-
-- - **MediScope (curated ~1k subset)**
+- **MediScope (curated ~1k subset)**
 - **MedDiagnose (237 samples)**
 - **CMtMedQA-test (1,000 samples)**
 - **MedDiagnose-plus (937 samples)**
