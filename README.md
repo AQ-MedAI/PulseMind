@@ -23,7 +23,6 @@ This repository provides the official **codebase and evaluation scripts** for th
   In this release, we provide a curated subset of **~1,000 cases** (JSON + images). The full dataset is larger and will be gradually released.
 - 🧠 **Models**:  
   - `PulseMind-72B`  
-  - `PulseMind-32B`
 - 📊 **Benchmarks**:
   - `MedDiagnose` – 237-sample test set (JSON + images)
   - `CMtMedQA-test` – 1,000-sample test set (JSON)
@@ -34,17 +33,18 @@ This repository provides the official **codebase and evaluation scripts** for th
 
 ---
 
-### 🔗 Dataset Download Links
+### 🔗 Dataset Download Links 
 
-- **MediScope (curated ~1k subset)**: [Download link](TODO_mediscope_link)  
-- **MedDiagnose (237 samples)**: [Download link](TODO_meddiagnose_link)  
-- **CMtMedQA-test (1,000 samples)**: [Download link](TODO_cmtmedqa_link)  
-- **MedDiagnose-plus (937 samples)**: [Download link](TODO_meddiagnose_plus_link)  
+- **MediScope (curated ~1k subset)**
+- **MedDiagnose (237 samples)**
+- **CMtMedQA-test (1,000 samples)**
+- **MedDiagnose-plus (937 samples)**
+
+[Download link](https://huggingface.co/datasets/AQ-MedAI/PulseMind) 
 
 ### 🧠 Model Checkpoint Links
 
 - **PulseMind-72B checkpoint**: [Download link](TODO_pulsemind72b_link)  
-- **PulseMind-32B checkpoint**: [Download link](TODO_pulsemind32b_link)  
 
 > After downloading, please follow the recommended directory layout  
 > (e.g., place raw data under `data/`, benchmark test sets under `Benchmark/`,  
