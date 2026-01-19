@@ -50,24 +50,3 @@ This repository provides the official **codebase and evaluation scripts** for th
 > and model checkpoints under `model/`), so that the provided evaluation scripts
 > can run out of the box.
 
----
-
-## 📁 Repository Structure (Code Only)
-
-The GitHub repository mainly contains evaluation code and auxiliary configs:
-
-```bash
-.
-├── data/                        # (empty by default) place downloaded datasets here
-│
-├── Benchmark/
-│   ├── CMtMedQA-test/           # Folder for CMtMedQA-test data (JSON, etc.)
-│   ├── MedDiagnose/             # Folder for MedDiagnose data (JSON + images)
-│   ├── MedDiagnose-plus/        # Folder for MedDiagnose-plus data (JSON + images)
-│   └── Eval/                    # Optional: extra evaluation utilities / configs
-│
-├── model/                       # Place downloaded model checkpoints here
-│
-└── README.md
-
->>>>>>> Initial push from server AAAI_github_PulseMind
