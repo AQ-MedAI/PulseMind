@@ -40,7 +40,7 @@ This repository provides the official **codebase and evaluation scripts** for th
 - **CMtMedQA-test (1,000 samples)**
 - **MedDiagnose-plus (937 samples)**
 
-[Download link](https://huggingface.co/datasets/AQ-MedAI/PulseMind) 
+  [Download link](https://huggingface.co/datasets/AQ-MedAI/PulseMind) 
 
 ### 🧠 Model Checkpoint Links
 
