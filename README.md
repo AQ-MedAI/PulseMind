@@ -43,7 +43,7 @@ This repository provides the official **codebase and evaluation scripts** for th
 
 ### 🧠 Model Checkpoint Links
 
-- **PulseMind-72B checkpoint**: [Download link](TODO_pulsemind72b_link)  
+- **PulseMind-72B checkpoint**: [Download link](https://huggingface.co/AQ-MedAI/PulseMind-72B/tree/main)  
 
 > After downloading, please follow the recommended directory layout  
 > (e.g., place raw data under `data/`, benchmark test sets under `Benchmark/`,  
